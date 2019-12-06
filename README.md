@@ -1,8 +1,8 @@
 # Resampling Methods
 
-Resampling methods are general approaches used to measure the fitting and test error, or to model selection purpose. We introduce 2 sim- ple but quite useful resampling methods: validation and bootstrap methods. They are more general method than p-value statistic since there is no assump- tion on the prior distribution of data. Moreover, to apply resampling methods, the original sample size n is not necessarily assumed to be large.
+Resampling methods are general approaches used to measure the fitting and test error, or to model selection purpose. We introduce 2 simple but quite useful resampling methods: validation and bootstrap methods. They are more general method than p-value statistic since there is no assumption on the prior distribution of data. Moreover, to apply resampling methods, the original sample size n is not necessarily assumed to be large.
 
-Main goal: To know the following methods: Validation set approach, K-fold cross-validation (K- CV), leave-one-out cross-validation (LOOCV) and boot- strap. To know practicing these methods in R.
+Main goal: To know the following methods: Validation set approach, K-fold cross-validation (K-CV), leave-one-out cross-validation (LOOCV) and boot-strap. To know practicing these methods in R.
 
 # Getting Started
 
